@@ -1,0 +1,12 @@
+C[C@@H]1C(=O)[C@H]([C@@H](CCC2=C[C@H](C3=C(C[C@@]1(C3=O)O)C)OC2=O)C(=C)C)O	coralloidolide_b
+CC1=C[C@@H]2CC(C[C@H]1[C@]3([C@@]2(CC3)OC(=O)C)C)(C)C	paesslerin_a
+C1CC[C@@](C)(C)C2CC[C@]3(C)[C@@H](C(OC(CO)CO)=O)C(=C)CC[C@H]3[C@]12C	austrodoris_4
+C1[C@]2([H])[C@@](CC[C@@H]([C@]2(CCC(CC(=O)OC(COC(=O)C)CO)C)C)C)(C)C(C)=CC1 	austrodoris_5
+C1CC=C(C)[C@@]2(C)C[C@H](O)[C@H](C)[C@@](C)(CC/C(/C)=C/C(OC(CO)CO)=O)[C@]12[H]	austrodoris_9
+CC1=C(CC[C@H](C)CC(=O)O[C@@H](CO)COC(=O)C)[C@@]2(C)CCC[C@@](C)(C)C2CC1	austrodoris_1a
+CC1=C(CC[C@H](C)CC(=O)O[C@@H](CO)CO)[C@@]2(C)CCC[C@@](C)(C)C2CC1	austrodoris_1b
+C=C1[C@]2(CC[C@@]([C@](CC/C(C/C(OC(CO)CO)=O)/C)(C)C2CCC1)C)C	austrodoris_2
+CC(CC[C@]1(C)C2=CCC[C@@](C)(C)C2CC[C@@H]1C)CC(=O)O[C@@H](CO)COC(=O)C 	austrodoris_3a
+CC(CC[C@]1(C)C2=CCC[C@@](C)(C)C2CC[C@@H]1C)CC(=O)O[C@@H](CO)CO 	austrodoris_3b
+C1C(C=C(C)CC2C3O[C@@]3(C(=O)O2)CC[C@@H](C(C)=C)CC(=O)C=1C)=O 	coralloidolide_e
+CC(=CC=CC=CC1=CC=CC=C1)C(=O)C	lignarenone_b
